@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+	"notifying-buddy",
+	"lib-notifier",
+]

@@ -1,0 +1,8 @@
+[package]
+name = "notifying-buddy"
+version = "0.1.0"
+authors = ["Matt Rabitsky <mRabitsky@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+lib-notifier = { path = "../lib-notifier" }
